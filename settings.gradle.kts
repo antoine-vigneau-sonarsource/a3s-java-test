@@ -1,0 +1,1 @@
+rootProject.name = "a3s-java-test"
